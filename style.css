@@ -66,6 +66,7 @@ a:hover {
 ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
 }
 
 .card li {
@@ -74,6 +75,9 @@ ul {
   padding: 0 8px;
 }
 
+.footer {
+  padding: 4px 32px;
+}
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
