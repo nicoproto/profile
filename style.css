@@ -22,6 +22,10 @@ h2 {
   font-size: 20px;
 }
 
+h3 {
+  color: #01162763;
+}
+
 a {
   color: #48E5C2;
   text-decoration: none;
@@ -36,7 +40,7 @@ a:hover {
 .card {
   border-radius: 4px;
   background-color: #e6e6e6;
-  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  box-shadow: 0 10px 30px rgba(0,0,0,.4);
   width: 40%;
   margin: 24px auto;
   padding: 32px;
@@ -67,6 +71,7 @@ ul {
 .card li {
   font-size: 40px;
   display: inline;
+  padding: 0 8px;
 }
 
 
